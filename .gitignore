@@ -1,0 +1,13 @@
+node_modules/
+
+.env
+.env.*
+!.env.example
+.cursor/
+.cursor/
+
+requests.rest
+*.pem
+*.p12
+serviceAccount*.json
+credentials.json
